@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Pratik Singhland</h1>
+<h1 align="center">Hi 👋, I'm Pratik Singh Lad</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
-- 🔭 I'm currently working on **Enterprise Applications using .NET 8, React, and Azure Cloud Services**
+- 🔭 I'm currently working on **Enterprise Applications using .NET 8, React, Angular, and Azure Cloud Services**
 - 💬 Ask me about **.NET, React, Azure, Cloud Architecture**
 
 ## 🎓 Certifications
@@ -23,6 +23,8 @@
 
 ### Database & Tools
 ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 
