@@ -1,68 +1,137 @@
-<h1 align="center">Hi 👋, I'm Pratik Singh Lad</h1>
-<h3 align="center">Software Engineer | Cloud Enthusiast | Tech Problem Solver</h3>
+# <div align="center">👨‍💻 Pratik Singh Lad</div>
 
-<p align="center">
-  <a href="https://linkedin.com/in/pratiksinghlad" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=600&height=100&lines=Senior+Software+Engineer;Cloud+Solutions+Architect;Tech+Innovation+Enthusiast" alt="Typing SVG" />
+</div>
+
+<div align="center">
+  
+  [![Repos Badge](https://badges.pufler.dev/repos/pratiksinghlad)](https://github.com/pratiksinghlad)
+  
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/pratiksinghlad">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/pratiksinghlad" target="_blank">
-    <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <a href="https://github.com/pratiksinghlad">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
   </a>
-</p>
-
----
-
-## 🧑‍💻 About Me
-
-I'm a passionate software engineer from India, dedicated to building scalable, secure, and robust applications. I love solving real-world technology problems and am always eager to learn and work with new tools and frameworks. My mission is to deliver impactful solutions and contribute to the tech community.
-
-- 🔭 Currently working on **Enterprise Applications using .NET 8, React, Angular, and Azure Cloud Services**
-- 💬 Ask me about **.NET, React, Azure, Cloud Architecture**
-- 🌱 Always learning and exploring new technologies
-
-## 🎓 Certifications
-- Azure Fundamentals (AZ-900)
-- AWS Certified Cloud Practitioner (CLF-C01)
-
-## 💻 Tech Stack
-
-### Backend
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-%3335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-
-### Database & Tools
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pratiksinghlad&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksinghlad&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-## 🚀 Projects
-*Coming soon!*
-
-## 🤝 Connect with Me
-- <a href="https://linkedin.com/in/pratiksinghlad" target="_blank">LinkedIn</a>
-- <a href="mailto:pratiklad9625@gmail.com">Email</a>
-- <a href="https://github.com/pratiksinghlad" target="_blank">GitHub</a>
-- <a href="https://x.com/pratiksinghlad" target="_blank">X/Twitter</a>
-
-<p align="right">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=7000&pause=1000&center=false&vCenter=false&width=500&lines=Tech+Autodidact%2C+Engineer+%26+Programmer;Loves+to+solve+technology+problems+by+code;Likes+to+build+scalable%2C+secure+applications" alt="Typing SVG" />
+  <a href="mailto:pratiklad9625@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-</p>
+  <a href="https://x.com/pratiksinghlad">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+</div>
 
----
-⭐️ From [pratiksinghlad](https://github.com/pratiksinghlad)
+## 🎯 About Me
+
+<img align="right" width="300" src="https://raw.githubusercontent.com/pratiksinghlad/pratiksinghlad/main/assets/coding.gif" />
+
+Seasoned Software Engineer with expertise in cloud solutions and enterprise applications. Passionate about:
+
+- 🏗️ Architecting scalable cloud solutions
+- 🚀 Building high-performance applications
+- 🔄 Implementing DevOps practices
+- 🤖 Exploring AI/ML integration
+- 🌱 Continuous learning and growth
+
+### 🎖️ Current Focus
+
+- 👨‍💻 Leading development of **Enterprise Cloud Solutions**
+- 🔭 Exploring **Serverless Architecture & Microservices**
+- 📚 Learning **AI/ML Integration in Cloud Apps**
+- 🤝 Contributing to **Open Source Projects**
+
+## 🛠️ Tech Arsenal
+
+<details>
+<summary>📊 Cloud & DevOps</summary>
+
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
+
+</details>
+
+<details>
+<summary>💻 Backend Development</summary>
+
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+
+</details>
+
+<details>
+<summary>🎨 Frontend & UI</summary>
+
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+</details>
+
+<details>
+<summary>🗄️ Database & Storage</summary>
+
+![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+</details>
+
+## 📈 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pratiksinghlad&show_icons=true&theme=github_dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratiksinghlad&layout=compact&theme=github_dark&hide_border=true" />
+</div>
+
+## 🎓 Certifications & Achievements
+
+<div align="center">
+  <a href="#">
+    <img src="https://img.shields.io/badge/Azure_Developer_Associate-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure Developer Associate"/>
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/AWS_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Cloud Practitioner"/>
+  </a>
+</div>
+
+## 📫 Let's Connect
+
+<div align="center">
+  <a href="https://pratiksinghlad.dev">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://linkedin.com/in/pratiksinghlad">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/pratiksinghlad">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:pratiklad9625@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</div>
+
+<div align="center">
+
+### 💭 Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+
+</div>
+
+<div align="center">
+  ⭐️ From <a href="https://github.com/pratiksinghlad">@pratiksinghlad</a>
+</div>
