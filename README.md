@@ -25,12 +25,56 @@
 
 ## 🚀 About Me
 
-I am a **Senior Software Engineer** and **Cloud Solutions Architect** with a deep focus on building scalable, high-performance enterprise systems. I specialize in cloud-native architectures, distributed systems, and modern DevOps practices.
-
-- 🏗️ **Architecting** resilient cloud solutions using **.NET**, **Azure**, and **AWS**.
-- 🚀 **Building** high-concurrency microservices and real-time streaming applications.
-- 🔄 **Mastering** DevOps & CI/CD to accelerate software delivery and stability.
-- 🤖 **Exploring** AI/ML integration into enterprise workflows for intelligent automation.
+<table>
+  <tr>
+    <td valign="top" width="340">
+      <pre>
+                                                            
+                       .......... ............              
+             ..........::....:.:::::::::::::::......        
+      .       ....:-::::.....-:.--===---:-====--:::..       
+     ...         ...:::...:....-+-==---:--==-=--:::..       
+      ..       . .. .:..  ..   ::=+=-----:-::--:::....      
+     ...   .   .... ....:--:::::-=+++=-:::::::.::.:...      
+     ...   .   ...:-:.:====++********++-::::::::.....       
+     .....:::::::::-::=-:--=++++**###*++-:::::::......      
+     .::-------::-:--==-:..:-==--=+**#*+=::::::::....       
+     ..:.::::::::::--==-----=**=-=***#*=+=::::::::....      
+     .......::.:::.-=====--==*#*+**###*+**-:::::::....      
+       ............-===-----=+**++*###***=:::::::.....      
+     ...............:===----=-+**+*****#*:::..:::::...      
+     ................-===----=++*****#*-:.:...:::::..       
+       ...............-====++*********-...::..:::....       
+     ...............:.-==---=++*****#+=......::::.....      
+       ...........:::.:===---=++***#*=+=::::.::......       
+      ..  ..........:. :=====****#*+-=+*+==--::......       
+     ...................:---=+**+=---=+++=======--:.        
+                ...  ....:-::----:-==++=====----===-:.      
+              .....  ..   .  :=-...:=+==-==---::=----:.     
+             .......      .::==.   .-=---====: --.---:.     
+             .... ..      .-===. :------====- .- :--::..    
+                .         -+:-: ::::----===== :..--:::..    
+            ...:.:.      :=--=:...:::--==--=+.:-.:-.:..     
+            .....:-.     :-.-=-...::-=====-:+=-- -..:..     
+            .  ...-:.    ::.:==.....====-=- :==-:. :...     
+                 ..         .-:.  ...::::-:  :::. ..        
+                            ...      ......  .              
+                                                            
+      </pre>
+    </td>
+    <td valign="top" style="padding-left: 24px;">
+      <p>
+        I am a <strong>Senior Software Engineer</strong> and <strong>Cloud Solutions Architect</strong> with a deep focus on building scalable, high-performance enterprise systems. I specialize in cloud-native architectures, distributed systems, and modern DevOps practices.
+      </p>
+      <ul>
+        <li>🏗️ <strong>Architecting</strong> resilient cloud solutions using <strong>.NET</strong>, <strong>Azure</strong>, and <strong>AWS</strong>.</li>
+        <li>🚀 <strong>Building</strong> high-concurrency microservices and real-time streaming applications.</li>
+        <li>🔄 <strong>Mastering</strong> DevOps & CI/CD to accelerate software delivery and stability.</li>
+        <li>🤖 <strong>Exploring</strong> AI/ML integration into enterprise workflows for intelligent automation.</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
