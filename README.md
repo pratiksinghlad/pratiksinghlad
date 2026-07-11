@@ -17,14 +17,56 @@
 
 ## 🚀 About Me
 
-> **Senior Software Engineer** & **Cloud Solutions Architect** crafting scalable, high-performance enterprise systems.
-
-- 🏗️ **Architecting** resilient cloud solutions on **Azure** & **AWS** with **.NET**
-- ⚡ **Building** high-concurrency microservices and real-time streaming applications
-- 🔄 **Automating** DevOps & CI/CD pipelines to accelerate software delivery
-- 🤖 **Exploring** AI/ML integration into enterprise workflows for intelligent automation
-- 💬 Ask me about **System Design**, **Cloud Architecture**, **Microservices**, **.NET**
-- 📍 Based in **United Kingdom**
+<table>
+<tr>
+<td valign="top" width="340">
+<pre>
+                       .......... ............
+             ..........::....:.:::::::::::::::......
+      .       ....:-::::.....-:.--===---:-====--:::..
+     ...         ...:::...:....-+-==---:--==-=--:::..
+      ..       . .. .:..  ..   ::=+=-----:-::--:::....
+     ...   .   .... ....:--:::::-=+++=-:::::::.::.:...
+     ...   .   ...:-:.:====++********++-::::::::.....
+     .....:::::::::-::=-:--=++++**###*++-:::::::......
+     .::-------::-:--==-:..:-==--=+**#*+=::::::::....
+     ..:.::::::::::--==-----=**=-=***#*=+=::::::::....
+     .......::.:::.-=====--==*#*+**###*+**-:::::::....
+       ............-===-----=+**++*###***=:::::::.....
+     ...............:===----=-+**+*****#*:::..:::::...
+     ................-===----=++*****#*-:.:...:::::..
+       ...............-====++*********-...::..:::....
+     ...............:.-==---=++*****#+=......::::.....
+       ...........:::.:===---=++***#*=+=::::.::......
+      ..  ..........:. :=====****#*+-=+*+==--::......
+     ...................:---=+**+=---=+++=======--:.
+                ...  ....:-::----:-==++=====----===-:.
+              .....  ..   .  :=-...:=+==-==---::=----:.
+             .......      .::==.   .-=---====: --.---:.
+             .... ..      .-===. :------====- .- :--::..
+                .         -+:-: ::::----===== :..--:::..
+            ...:.:.      :=--=:...:::--==--=+.:-.:-.:..
+            .....:-.     :-.-=-...::-=====-:+=-- -..:..
+            .  ...-:.    ::.:==.....====-=- :==-:. :...
+                 ..         .-:.  ...::::-:  :::. ..
+                            ...      ......  .
+</pre>
+</td>
+<td valign="top" style="padding-left:24px">
+<p>
+  I am a <strong>Senior Software Engineer</strong> and <strong>Cloud Solutions Architect</strong> with a deep focus on building scalable, high-performance enterprise systems. I specialize in cloud-native architectures, distributed systems, and modern DevOps practices.
+</p>
+<ul>
+  <li>🏗️ <strong>Architecting</strong> resilient cloud solutions using <strong>.NET</strong>, <strong>Azure</strong>, and <strong>AWS</strong>.</li>
+  <li>🚀 <strong>Building</strong> high-concurrency microservices and real-time streaming applications.</li>
+  <li>🔄 <strong>Mastering</strong> DevOps &amp; CI/CD to accelerate software delivery and stability.</li>
+  <li>🤖 <strong>Exploring</strong> AI/ML integration into enterprise workflows for intelligent automation.</li>
+  <li>💬 Ask me about <strong>System Design</strong>, <strong>Cloud Architecture</strong>, <strong>Microservices</strong>, <strong>.NET</strong></li>
+  <li>📍 Based in <strong>United Kingdom</strong></li>
+</ul>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -32,7 +74,7 @@
 
 <div align="center">
 
-### Languages & Frameworks
+### Languages &amp; Frameworks
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,7 +84,7 @@
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
-### Cloud & DevOps
+### Cloud &amp; DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -50,7 +92,7 @@
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 
-### Databases & Messaging
+### Databases &amp; Messaging
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=for-the-badge&logo=redis&logoColor=white)
